@@ -1,0 +1,1 @@
+select * from sales_db.silver.sales;
